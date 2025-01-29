@@ -11,3 +11,6 @@ I am Samrudhi, I am learning a java language from road to code.
 - Reading books
 - Travelling
 
+## Goal
+
+I have a goal to become a software engineer and build a new project on website.
